@@ -98,7 +98,7 @@ The corresponding data may also be read directly from the supplied CSV files.
 
 ```bash
 python degree6_stability_batch.py
-'''
+```
 
 ## Clearence
 
